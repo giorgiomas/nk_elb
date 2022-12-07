@@ -63,7 +63,7 @@ sig     = 1;
 theta   = 0.78;
 @#define ILB = -0.0055
 
-@#define ELB_METHOD="NEWTON"
+@#define ELB_METHOD="MCP"
 
 model_local_variable kappa ${\kappa}$;
 
